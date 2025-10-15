@@ -1,5 +1,5 @@
 <div align="center">
-<img width="256" height="256" alt="Main Icon" src="https://github.com/user-attachments/assets/740367ba-7051-4489-9af0-06b20a1e9f7d"/><br/>
+<img width="256" height="256" alt="Main Icon" src="icons/prism.png"/><br/>
 
 © 2025 TheGooberr1. All rights reserved.<br/>
 _Powered by magic!_<br/>
