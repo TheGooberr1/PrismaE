@@ -14,9 +14,9 @@ _Powered by magic!_<br/>
 <br/>
 
 ### _Information about Qt._
->_This project of mine uses something known as Qt (specifically Qt6). Qt is needed for full functionality. The license that Qt is under, is LGPL-3.0, while my project is under AGPL-3.0._<br/>
->_For reasons in regards to both legality, and easier development, this project is dynamically linked. This means that libraries can be changed at any time, and issues shouldn't arise (if done correctly)._<br/>
->_The folder within this project named "Dependencies" holds all this project's dependencies. This includes Qt. You can find the license that Qt is under in that folder._<br/>
+>_This project of mine uses something known as Qt. The license that Qt is under, is LGPL-3.0, while my project is under AGPL-3.0._<br/>
+>_This project is dynamically linked. This means that libraries can be changed at any time, and issues shouldn't show up or whatever (if done correctly)._<br/>
+>_You can view the Qt license within the "Dependencies" folder._<br/>
 
  <br/>
 
