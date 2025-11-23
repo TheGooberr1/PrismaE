@@ -17,6 +17,7 @@ _Powered by magic!_<br/>
 >_This project of mine uses something known as Qt. The license that Qt is under, is LGPL-3.0, while my project is under AGPL-3.0._<br/>
 >_This project is dynamically linked. This means that libraries can be changed at any time, and issues shouldn't show up or whatever (if done correctly)._<br/>
 >_You can view the Qt license within the "Dependencies" folder._<br/>
+>_I don't know why I added this but some clanker ai said to..<br/>
 
  <br/>
 
